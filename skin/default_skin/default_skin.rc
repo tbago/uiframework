@@ -1,0 +1,258 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(中华人民共和国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// BINDATA
+//
+
+IDR_APP_TOP_CENTER              BINDATA                 "image\\app_top_center.png"
+IDR_CLOSE                       BINDATA                 "image\\close.png"
+IDR_CLOSE_H                     BINDATA                 "image\\close_h.png"
+IDR_CLOSE_P                     BINDATA                 "image\\close_p.png"
+IDR_CONTENT_BOTTOM_CENTER       BINDATA                 "image\\content_bottom_center.png"
+IDR_CONTENT_BOTTOM_LEFT_CORNER  BINDATA                 "image\\content_bottom_left_corner.png"
+IDR_CONTENT_BOTTOM_RIGHT_CORNER BINDATA                 "image\\content_bottom_right_corner.png"
+IDR_CONTENT_LEFT_SIDE           BINDATA                 "image\\content_left_side.png"
+IDR_CONTENT_RIGHT_SIDE          BINDATA                 "image\\content_right_side.png"
+IDR_FOLDER_CLOSED               BINDATA                 "image\\folder_closed.png"
+IDR_FOLDER_CLOSED_RTL           BINDATA                 "image\\folder_closed_rtl.png"
+IDR_FOLDER_OPEN                 BINDATA                 "image\\folder_open.png"
+IDR_FOLDER_OPEN_RTL             BINDATA                 "image\\folder_open_rtl.png"
+IDR_FRAME                       BINDATA                 "image\\frame_default.png"
+IDR_FRAME_INACTIVE              BINDATA                 "image\\frame_default_inactive.png"
+IDR_INPUT_GOOD                  BINDATA                 "image\\input_good.png"
+IDR_MAXIMIZE                    BINDATA                 "image\\maximize.png"
+IDR_MAXIMIZE_H                  BINDATA                 "image\\maximize_h.png"
+IDR_MAXIMIZE_P                  BINDATA                 "image\\maximize_p.png"
+IDR_MINIMIZE                    BINDATA                 "image\\minimize.png"
+IDR_MINIMIZE_H                  BINDATA                 "image\\minimize_h.png"
+IDR_MINIMIZE_P                  BINDATA                 "image\\minimize_p.png"
+IDR_MENU_DROPARROW              BINDATA                 "image\\menu_droparrow.png"
+IDR_RESTORE                     BINDATA                 "image\\restore.png"
+IDR_RESTORE_H                   BINDATA                 "image\\restore_h.png"
+IDR_RESTORE_P                   BINDATA                 "image\\restore_p.png"
+IDR_TEXTBUTTON_BOTTOM_H         BINDATA                 "image\\textbutton_b_h.png"
+IDR_TEXTBUTTON_BOTTOM_P         BINDATA                 "image\\textbutton_b_p.png"
+IDR_TEXTBUTTON_BOTTOM_LEFT_H    BINDATA                 "image\\textbutton_bl_h.png"
+IDR_TEXTBUTTON_BOTTOM_LEFT_P    BINDATA                 "image\\textbutton_bl_p.png"
+IDR_TEXTBUTTON_BOTTOM_RIGHT_H   BINDATA                 "image\\textbutton_br_h.png"
+IDR_TEXTBUTTON_BOTTOM_RIGHT_P   BINDATA                 "image\\textbutton_br_p.png"
+IDR_TEXTBUTTON_CENTER_H         BINDATA                 "image\\textbutton_c_h.png"
+IDR_TEXTBUTTON_CENTER_P         BINDATA                 "image\\textbutton_c_p.png"
+IDR_TEXTBUTTON_LEFT_H           BINDATA                 "image\\textbutton_l_h.png"
+IDR_TEXTBUTTON_LEFT_P           BINDATA                 "image\\textbutton_l_p.png"
+IDR_TEXTBUTTON_RIGHT_H          BINDATA                 "image\\textbutton_r_h.png"
+IDR_TEXTBUTTON_RIGHT_P          BINDATA                 "image\\textbutton_r_p.png"
+IDR_TEXTBUTTON_TOP_H            BINDATA                 "image\\textbutton_t_h.png"
+IDR_TEXTBUTTON_TOP_P            BINDATA                 "image\\textbutton_t_p.png"
+IDR_TEXTBUTTON_TOP_LEFT_H       BINDATA                 "image\\textbutton_tl_h.png"
+IDR_TEXTBUTTON_TOP_LEFT_P       BINDATA                 "image\\textbutton_tl_p.png"
+IDR_TEXTBUTTON_TOP_RIGHT_H      BINDATA                 "image\\textbutton_tr_h.png"
+IDR_TEXTBUTTON_TOP_RIGHT_P      BINDATA                 "image\\textbutton_tr_p.png"
+IDR_THROBBER                    BINDATA                 "image\\throbber.png"
+IDR_WINDOW_BOTTOM_CENTER        BINDATA                 "image\\window_bottom_center.png"
+IDR_WINDOW_BOTTOM_LEFT_CORNER   BINDATA                 "image\\window_bottom_left_corner.png"
+IDR_WINDOW_BOTTOM_RIGHT_CORNER  BINDATA                 "image\\window_bottom_right_corner.png"
+IDR_WINDOW_TOP_LEFT_CORNER      BINDATA                 "image\\window_top_left_corner.png"
+IDR_WINDOW_TOP_RIGHT_CORNER     BINDATA                 "image\\window_top_right_corner.png"
+IDR_WINDOW_LEFT_SIDE            BINDATA                 "image\\window_left_side.png"
+IDR_WINDOW_RIGHT_SIDE           BINDATA                 "image\\window_right_side.png"
+IDR_WINDOW_TOP_CENTER           BINDATA                 "image\\window_top_center.png"
+IDR_APP_TOP_LEFT                BINDATA                 "image\\app_top_left.png"
+IDR_APP_TOP_RIGHT               BINDATA                 "image\\app_top_right.png"
+IDR_CLOSE_SA                    BINDATA                 "image\\close_sa.png"
+IDR_CLOSE_SA_H                  BINDATA                 "image\\close_sa_h.png"
+IDR_CLOSE_SA_P                  BINDATA                 "image\\close_sa_p.png"
+
+IDR_VSCROLLBAR_PREV_BUTTON          BINDATA             "image\\vscrollbar_prev_button.png"
+IDR_VSCROLLBAR_PREV_BUTTON_H        BINDATA             "image\\vscrollbar_prev_button_h.png"
+IDR_VSCROLLBAR_PREV_BUTTON_P        BINDATA             "image\\vscrollbar_prev_button_p.png"
+IDR_VSCROLLBAR_NEXT_BUTTON          BINDATA             "image\\vscrollbar_next_button.png"
+IDR_VSCROLLBAR_NEXT_BUTTON_H        BINDATA             "image\\vscrollbar_next_button_h.png"
+IDR_VSCROLLBAR_NEXT_BUTTON_P        BINDATA             "image\\vscrollbar_next_button_p.png"
+IDR_VSCROLLBAR_THUMB_START_CAP      BINDATA             "image\\vscrollbar_thumb_start_cap.png"
+IDR_VSCROLLBAR_THUMB_START_CAP_H    BINDATA             "image\\vscrollbar_thumb_start_cap_h.png"
+IDR_VSCROLLBAR_THUMB_START_CAP_P    BINDATA             "image\\vscrollbar_thumb_start_cap_p.png"
+IDR_VSCROLLBAR_THUMB_MIDDLE         BINDATA             "image\\vscrollbar_thumb_middle.png"
+IDR_VSCROLLBAR_THUMB_MIDDLE_H       BINDATA             "image\\vscrollbar_thumb_middle_h.png"
+IDR_VSCROLLBAR_THUMB_MIDDLE_P       BINDATA             "image\\vscrollbar_thumb_middle_p.png"
+IDR_VSCROLLBAR_THUMB_END_CAP        BINDATA             "image\\vscrollbar_thumb_end_cap.png"
+IDR_VSCROLLBAR_THUMB_END_CAP_H      BINDATA             "image\\vscrollbar_thumb_end_cap_h.png"
+IDR_VSCROLLBAR_THUMB_END_CAP_P      BINDATA             "image\\vscrollbar_thumb_end_cap_p.png"
+IDR_VSCROLLBAR_THUMB_GRIPPY         BINDATA             "image\\vscrollbar_thumb_grippy.png"
+IDR_VSCROLLBAR_THUMB_GRIPPY_H       BINDATA             "image\\vscrollbar_thumb_grippy_h.png"
+IDR_VSCROLLBAR_THUMB_GRIPPY_P       BINDATA             "image\\vscrollbar_thumb_grippy_p.png"
+IDR_VSCROLLBAR_THUMB_TRACK          BINDATA             "image\\vscrollbar_thumb_track.png"
+
+IDR_CONTENT_TOP_CENTER              BINDATA             "image\\content_top_center.png"
+IDR_CONTENT_TOP_LEFT_CORNER         BINDATA             "image\\content_top_left_corner.png"
+IDR_CONTENT_TOP_LEFT_CORNER_MASK    BINDATA             "image\\content_top_left_corner_mask.png"
+IDR_CONTENT_TOP_RIGHT_CORNER        BINDATA             "image\\content_top_right_corner.png"
+IDR_CONTENT_TOP_RIGHT_CORNER_MASK   BINDATA             "image\\content_top_right_corner_mask.png"
+IDR_MAXIMIZE_BUTTON_MASK            BINDATA             "image\\maximize_button_mask.png"
+IDR_MINIMIZE_BUTTON_MASK            BINDATA             "image\\minimize_button_mask.png"
+IDR_RESTORE_BUTTON_MASK             BINDATA             "image\\restore_button_mask.png"
+IDR_PRODUCT_LOGO_32                 BINDATA             "image\\product_logo_32.png"
+IDR_PRODUCT_LOGO                    BINDATA             "image\\product_logo.png"
+IDR_PRODUCT_LOGO_WHITE              BINDATA             "image\\product_logo_white.png"
+IDR_PRODUCT_LOGO_16                 BINDATA             "image\\product_logo_16.png"
+IDR_THEME_BUTTON_BACKGROUND         BINDATA             "image\\notused.png"
+IDR_THEME_FRAME                     BINDATA             "image\\theme_frame_default.png"
+IDR_THEME_FRAME_INACTIVE            BINDATA             "image\\theme_frame_default_inactive.png"
+IDR_THEME_FRAME_INCOGNITO           BINDATA             "image\\theme_frame_default_incognito.png"
+IDR_THEME_FRAME_INCOGNITO_INACTIVE  BINDATA             "image\\theme_frame_default_incognito_inactive.png"
+IDR_THEME_FRAME_OVERLAY             BINDATA             "image\\notused.png"
+IDR_THEME_FRAME_OVERLAY_INACTIVE    BINDATA             "image\\notused.png"
+IDR_THEME_NTP_ATTRIBUTION           BINDATA             "image\\notused.png"
+IDR_THEME_NTP_BACKGROUND            BINDATA             "image\\ntp_background.png"
+IDR_THEME_TAB_BACKGROUND            BINDATA             "image\\theme_tab_background.png"
+IDR_THEME_TAB_BACKGROUND_INCOGNITO  BINDATA             "image\\theme_tab_background_incognito.png"
+IDR_THEME_TAB_BACKGROUND_V          BINDATA             "image\\theme_tab_background_glass.png"
+IDR_THEME_TOOLBAR                   BINDATA             "image\\theme_toolbar_default.png"
+IDR_THEME_WINDOW_CONTROL_BACKGROUND BINDATA             "image\\notused.png"
+IDR_THROBBER_LIGHT                  BINDATA             "image\\throbber_light.png"
+IDR_THROBBER_WAITING                BINDATA             "image\\throbber_waiting.png"
+IDR_THROBBER_WAITING_LIGHT          BINDATA             "image\\throbber_waiting_light.png"
+
+IDR_BUBBLE_B BINDATA                        "image\\bubble_b.png"
+IDR_BUBBLE_BL BINDATA                       "image\\bubble_bl.png"
+IDR_BUBBLE_BR BINDATA                       "image\\bubble_br.png"
+IDR_BUBBLE_B_ARROW BINDATA                  "image\\bubble_pointer_b.png"
+IDR_BUBBLE_L BINDATA                        "image\\bubble_l.png"
+IDR_BUBBLE_L_ARROW BINDATA                  "image\\bubble_pointer_l.png"
+IDR_BUBBLE_R BINDATA                        "image\\bubble_r.png"
+IDR_BUBBLE_R_ARROW BINDATA                  "image\\bubble_pointer_r.png"
+IDR_BUBBLE_T BINDATA                        "image\\bubble_t.png"
+IDR_BUBBLE_TL BINDATA                       "image\\bubble_tl.png"
+IDR_BUBBLE_TR BINDATA                       "image\\bubble_tr.png"
+IDR_BUBBLE_T_ARROW BINDATA                  "image\\bubble_pointer_t.png"
+
+IDR_APP_1 BINDATA                           "image\\app1.png"
+IDR_APP_2 BINDATA                           "image\\app2.png"
+IDR_APP_3 BINDATA                           "image\\app3.png"
+IDR_APP_4 BINDATA                           "image\\app4.png"
+IDR_APP_5 BINDATA                           "image\\app5.png"
+IDR_APP_6 BINDATA                           "image\\app6.png"
+IDR_APP_7 BINDATA                           "image\\app7.png"
+IDR_APP_8 BINDATA                           "image\\app8.png"
+IDR_APP_9 BINDATA                           "image\\app9.png"
+IDR_APP_10 BINDATA                          "image\\app10.png"
+IDR_APP_11 BINDATA                          "image\\app11.png"
+IDR_APP_12 BINDATA                          "image\\app12.png"
+IDR_APP_13 BINDATA                          "image\\app13.png"
+IDR_APP_14 BINDATA                          "image\\app14.png"
+IDR_APP_15 BINDATA                          "image\\app15.png"
+IDR_APP_16 BINDATA                          "image\\app16.png"
+IDR_APP_17 BINDATA                          "image\\app17.png"
+IDR_APP_18 BINDATA                          "image\\app18.png"
+IDR_APP_19 BINDATA                          "image\\app19.png"
+IDR_APP_20 BINDATA                          "image\\app20.png"
+IDR_APP_21 BINDATA                          "image\\app21.png"
+IDR_APP_22 BINDATA                          "image\\app22.png"
+IDR_APP_23 BINDATA                          "image\\app23.png"
+
+IDR_LOCATIONBG_POPUPMODE_EDGE BINDATA       "image\\omnibox_popup_edge.png"
+IDR_LOCATIONBG_C   BINDATA                  "image\\omnibox_c.png"
+IDR_LOCATIONBG_L   BINDATA                  "image\\omnibox_l.png"
+IDR_LOCATIONBG_R   BINDATA                  "image\\omnibox_r.png"
+IDR_BACK           BINDATA                  "image\\back.png"
+IDR_BACK_D         BINDATA                  "image\\back_d.png"
+IDR_BACK_H         BINDATA                  "image\\back_h.png"
+IDR_BACK_P         BINDATA                  "image\\back_p.png"
+IDR_FORWARD        BINDATA                  "image\\forward.png"
+IDR_FORWARD_D      BINDATA                  "image\\forward_d.png"
+IDR_FORWARD_H      BINDATA                  "image\\forward_h.png"
+IDR_FORWARD_P      BINDATA                  "image\\forward_p.png"
+IDR_HOME           BINDATA                  "image\\home.png"
+IDR_HOME_H         BINDATA                  "image\\home_h.png"
+IDR_HOME_P         BINDATA                  "image\\home_p.png"
+
+IDR_TAB_CLOSE      BINDATA                  "image\\tab_close.png"
+IDR_TAB_CLOSE_H    BINDATA                  "image\\tab_close_h.png"
+IDR_TAB_CLOSE_MASK BINDATA                  "image\\tab_close_mask.png"
+IDR_TAB_CLOSE_P    BINDATA                  "image\\tab_close_p.png"
+IDR_TAB_DROP_DOWN  BINDATA                  "image\\tab_drop_down.png"
+IDR_TAB_DROP_UP    BINDATA                  "image\\tab_drop_up.png"
+IDR_TAB_ACTIVE_CENTER BINDATA               "image\\tab_active_center.png"
+IDR_TAB_ACTIVE_LEFT BINDATA                 "image\\tab_active_left.png"
+IDR_TAB_ACTIVE_RIGHT BINDATA                "image\\tab_active_right.png"
+IDR_TAB_ALPHA_LEFT BINDATA                  "image\\tab_alpha_left.png"
+IDR_TAB_ALPHA_RIGHT BINDATA                 "image\\tab_alpha_right.png"
+IDR_TAB_INACTIVE_CENTER BINDATA             "image\\tab_inactive_center.png"
+IDR_TAB_INACTIVE_LEFT BINDATA               "image\\tab_inactive_left.png"
+IDR_TAB_INACTIVE_RIGHT BINDATA              "image\\tab_inactive_right.png"
+IDR_NEWTAB_BUTTON  BINDATA                  "image\\newtab.png"
+IDR_NEWTAB_BUTTON_H BINDATA                 "image\\newtab_h.png"
+IDR_NEWTAB_BUTTON_MASK BINDATA              "image\\newtab_button_mask.png"
+IDR_NEWTAB_BUTTON_P BINDATA                 "image\\newtab_p.png"
+IDR_CLOSE_BUTTON_MASK BINDATA               "image\\close_button_mask.png"
+IDR_WARNING BINDATA                         "image\\alert_small.png"
+IDR_BOOKMARK_BAR_CHEVRONS BINDATA           "image\\chevron.png"
+IDR_BOOKMARK_BAR_FOLDER BINDATA             "image\\bookmark_bar_folder.png"
+IDR_SAD_FAVICON BINDATA                     "image\\sadfavicon.png"
+IDR_DEFAULT_FAVICON BINDATA                 "image\\default_favicon.png"
+IDR_DOCK_HIGH BINDATA                       "image\\dock_tab_high.png"
+IDR_DOCK_MAX BINDATA                        "image\\dock_tab_max.png"
+IDR_DOCK_WIDE BINDATA                       "image\\dock_tab_wide.png"
+    
+#endif    // 中文(中华人民共和国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
