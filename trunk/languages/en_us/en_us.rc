@@ -1,0 +1,146 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(中华人民共和国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_APP_UNDO            "UnDo(&U)"
+    IDS_APP_CUT             "Cut(&T)"
+    IDS_APP_COPY            "Copy(&C)"
+    IDS_APP_PASTE           "Paste(&P)"
+    IDS_APP_DELETE          "Delete(&D)"
+    IDS_APP_SELECT_ALL      "SelectAll(&A)"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_APP_OK              "OK"
+    IDS_APP_CANCEL          "Cancel"
+    IDS_APP_CLOSE           "Close"
+    IDS_APP_ESC_KEY         "Esc"
+    IDS_APP_TAB_KEY         "Tab"
+    IDS_APP_INSERT_KEY      "Ins"
+    IDS_APP_HOME_KEY        "Home"
+    IDS_APP_DELETE_KEY      "Del"
+    IDS_APP_END_KEY         "End"
+    IDS_APP_PAGEUP_KEY      "PageUp"
+    IDS_APP_PAGEDOWN_KEY    "PageDown"
+    IDS_APP_LEFT_ARROW_KEY  "LeftArrow"
+    IDS_APP_RIGHT_ARROW_KEY "RightArrow"
+    IDS_APP_ENTER_KEY       "Enter"
+    IDS_APP_F1_KEY          "F1"
+    IDS_APP_F11_KEY         "F11"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_APP_BACKSPACE_KEY   "Backspace"
+    IDS_APP_CONTROL_MODIFIER "Control+$1"
+    IDS_APP_ALT_MODIFIER    "Alt+$1"
+    IDS_APP_SHIFT_MODIFIER  "Shift+$1"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_APP_ACCACTION_PRESS "IDS_APP_ACCACTION_PRESS"
+    IDS_APP_UNTITLED_SHORTCUT_FILE_NAME "IDS_APP_UNTITLED_SHORTCUT_FILE_NAME"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLHERE "IDS_APP_SCROLLBAR_CXMENU_SCROLLHERE"
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLLEFTEDGE 
+                            "IDS_APP_SCROLLBAR_CXMENU_SCROLLLEFTEDGE"
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLHOME "IDS_APP_SCROLLBAR_CXMENU_SCROLLHOME"
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLRIGHTEDGE 
+                            "IDS_APP_SCROLLBAR_CXMENU_SCROLLRIGHTEDGE"
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLEND "IDS_APP_SCROLLBAR_CXMENU_SCROLLEND"
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLPAGEUP 
+                            "IDS_APP_SCROLLBAR_CXMENU_SCROLLPAGEUP"
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLPAGEDOWN 
+                            "IDS_APP_SCROLLBAR_CXMENU_SCROLLPAGEDOWN"
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLLEFT "IDS_APP_SCROLLBAR_CXMENU_SCROLLLEFT"
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLUP "IDS_APP_SCROLLBAR_CXMENU_SCROLLUP"
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLRIGHT 
+                            "IDS_APP_SCROLLBAR_CXMENU_SCROLLRIGHT"
+    IDS_APP_SCROLLBAR_CXMENU_SCROLLDOWN "IDS_APP_SCROLLBAR_CXMENU_SCROLLDOWN"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_APP_ACCNAME_CLOSE   "IDS_APP_ACCNAME_CLOSE"
+    IDS_APP_ACCNAME_MINIMIZE "IDS_APP_ACCNAME_MINIMIZE"
+    IDS_APP_ACCNAME_MAXIMIZE "IDS_APP_ACCNAME_MAXIMIZE"
+    IDS_APP_ACCNAME_RESTORE "IDS_APP_ACCNAME_RESTORE"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_APP_MENU_EMPTY_SUBMENU "IDS_APP_MENU_EMPTY_SUBMENU"
+END
+
+#endif    // 中文(中华人民共和国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
