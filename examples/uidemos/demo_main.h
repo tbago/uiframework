@@ -29,6 +29,7 @@ public:
 
     // Overridden from view::WidgetDelegate:
     virtual bool CanResize() const;
+    virtual bool CanMaximize() const;
     virtual std::wstring GetWindowTitle() const;
     virtual views::View* GetContentsView();
     virtual void WindowClosing();

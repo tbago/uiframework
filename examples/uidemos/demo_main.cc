@@ -43,6 +43,12 @@ bool DemoMain::CanResize() const
     return true;
 }
 
+
+bool DemoMain::CanMaximize() const
+{
+    return false;
+}
+
 std::wstring DemoMain::GetWindowTitle() const
 {
     return std::wstring(L"View Demo");
